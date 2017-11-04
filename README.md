@@ -1,4 +1,4 @@
-# Arya-Soni-Personal-Portfolio-
+
 # - **[Arya Soni](http://www.aryasoni.com/)**
  
    - **[Javascript Game](http://aryasoni.com/project/game/)**
